@@ -1,7 +1,7 @@
 ## Sobre o projeto
 O projeto consiste em um aplicativo Desktop para fazer busca pelo CEP
 
-![Print da tela da aplicação](./print-tela.png)
+![Print da tela da aplicação](./images/print-tela.png)
 
 ## Tecnologias
 
