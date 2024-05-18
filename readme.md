@@ -6,7 +6,7 @@ O projeto consiste em um aplicativo Desktop para fazer busca pelo CEP
 ## Tecnologias
 
 - [Electron](https://www.electronjs.org/pt/)
--[Electron Reload](https://www.npmjs.com/package/electron-reload)
+- [Electron Reload](https://www.npmjs.com/package/electron-reload)
 
 ## Como executar o projeto
 
